@@ -1,3 +1,3 @@
 # Git Course
 
-Rep
+Repositorio 2
